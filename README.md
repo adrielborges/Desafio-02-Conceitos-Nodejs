@@ -23,7 +23,7 @@ Rotas da aplicação
 
 <img src="https://raw.githubusercontent.com/rocketseat-education/bootcamp-gostack-desafios/master/desafio-conceitos-nodejs/assets/nodejs-example.png"/>
 
-### Todos os testes foram passados com sucesso na aplicação 
+### Todos os testes foram aprovados com sucesso na aplicação 
 <img src="https://github.com/adrielborges/Desafio-02-Conceitos-Nodejs/blob/master/assets/readme-assets/test-conclusion.png?raw=true"/>
 
 
